@@ -1,3 +1,3 @@
-@ST_77243 @tag1 @tag2 @tag3
+@ST_77670 @tag1 @tag2 @tag3
 Feature: 0xOrRjOHbbName
 Check that story can be created.
