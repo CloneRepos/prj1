@@ -1,3 +1,3 @@
-@ST_112766 @tag1 @tag2 @tag3
+@ST_113287 @tag1 @tag2 @tag3
 Feature: MCdfrtI3PcName
 Check that story can be created.
